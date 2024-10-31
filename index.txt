@@ -2,29 +2,30 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Aakash Wagle
+Aakash Wagle
+Software Developer
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+aakash.wagle18@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (484) 871-0386
 
 Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+State College, Pennsylvania, USA
 
 # navbar
 
 About
 Resume
-Portfolio
+Projects
 Blog
 Contact
 
@@ -32,10 +33,10 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+I'm a Graduate Student in Computer Science and Engineering at The Pennsylvania State University, with a Bachelor's in Computer Engineering and Honours in Data Science. I focus on software development, and AI, with experience across various projects and internships. 
+Proficient in Python, C++, TypeScript, React, GraphQL, Node.js, and more, I work across both front-end and back-end development.
+I enjoy building scalable, efficient solutions that are both functional and user-friendly. My goal is to solve complex problems and contribute to impactful projects, while continuously learning and growing as a software engineer.
+Actively looking for SDE internships/co-ops!
 
 ## service
 
@@ -93,42 +94,48 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+The Pennsylvania State University
+Master of Science in Computer Science and Engineering
+May 2024 — August 2026
+Coursework: Computer Architecture, Computer Security, Vision and Languages
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+K.J. Somaiya College of Engineering
+Bachelor of Technology in Computer Engineering
+Honours in Data Science and Analytics
+May 2020 — August 2024
+CGPA: 9.32/10
+Coursework: Data Structures, Advanced Algorithms, Databases, Operating Systems, Computer Networks, AI, ML.
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Metis
+Web Developer
+June 2024 — July 2024
+Deployed features enabling the onboarding of new user profiles within the production codebase.
+Developed 10+ new reusable components and resolved 20+ bugs in the existing ones.
+Engineered 20+ new, optimized queries and mutations to reduce data over-fetching, improving overall performance.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Persistent Systems
+Martian Summer Intern
+June 2023 - Aug 2023
+Excelled in projects and assessments, showcasing strong proficiency in Python, Oracle SQL, and Linux under expert mentorship.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Rotaract Club of Thane Midtown (RCTMT)
+Web Developer
+June 2024 — July 2024
+Overhauled a Wix website to a custom-built one using the MERN stack (MongoDB, Express, React, Node).
+Collaborated with a team to ideate the renewed design of the UI, reducing user complaints by 50%.
 
 My skills
 
-Web design
-80%
-Graphic design
-70%
-Branding
-90%
-WordPress
-50%
+Languages
+C++, Python, JavaScript, TypeScript, C#, Java
+
+Libraries and Frameworks
+React, Express.js, Node.js, GraphQL, Redux, Django, Fastapi, Firebase, Material UI, Tailwind CSS, Tensorflow
+
+Databases
+MySQL, PostgreSQL, MongoDB, Tools and Utilities, Linux, Git, Postman
 
 
 
