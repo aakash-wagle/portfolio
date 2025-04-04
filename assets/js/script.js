@@ -61,7 +61,14 @@ const selectItems = document.querySelectorAll("[data-select-item]");
 const selectValue = document.querySelector("[data-select-value]");
 const filterBtn = document.querySelectorAll("[data-filter-btn]");
 
+
+
 select.addEventListener("click", function () { elementToggleFunc(this); });
+
+// console.log(select);
+// console.log(selectItems);
+// console.log(selectValue);
+// console.log(filterBtn);
 
 // add event in all select items
 for (let i = 0; i < selectItems.length; i++) {
@@ -84,7 +91,7 @@ const filterFunc = function (selectedValue) {
 
     if (selectedValue === "all") {
       filterItems[i].classList.add("active");
-    } else if (selectedValue === filterItems[i].dataset.category) {
+    } else if (selectedValue === filterItems[i].dataset.category.toLowerCase()) {
       filterItems[i].classList.add("active");
     } else {
       filterItems[i].classList.remove("active");
