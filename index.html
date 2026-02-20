@@ -625,14 +625,12 @@
 
               <ul class="bulleted-list">
                 <li>
-                  Developed a microservice to integrate WhatsApp functionality, enabling dashboard updates in real-time notify-on-whatsapp and the sharing of resources and notes (share-via-whatsapp).
+                  Developed a microservice to integrate real-time push notifications and file sharing through WhatsApp.
                 </li>
                 <li>
-                  Automated data management by scripting a one-time migration of existing WhatsApp groups and establishing a nightly CRON job for data synchronization.
-                </li>
+                  Automated data synchronization by scripting the migration of clients' existing WhatsApp groups using CRON.                </li>
                 <li>
-                  Engineered a secure, share-as-link feature for user-generated content by implementing access control policies and a dedicated user role, enabling view-only access for external users.
-                </li>
+                  Engineered a secure, share-as-link feature for user-generated content, implemented access control policies and enabled view-only access for external users through a newly added user role.                </li>
               </ul>
 
             </li>
@@ -649,14 +647,11 @@
 
               <ul class="bulleted-list">
                 <li>
-                  Developed data migration scripts, enabling seamless onboarding for 500+ new users of a key enterprise client while preserving user progress.
-                </li>
+                  Developed data migration scripts, enabling seamless onboarding for thousands new users of a key enterprise client while preserving user progress.                </li>
                 <li>
-                  Shipped 10+ reusable React components, ensuring consistency and reducing development time.
-                </li>
+                  Shipped a suite of 20+ reusable React micro-components, ensuring consistent user experience across different screens and cutting duplicate development effort.                </li>
                 <li>
-                  Optimized state management with React Context and refactored 10+ GraphQL queries using Apollo caching/selective fetching, cutting page load time by 40% and data over-fetching by 60%.
-                </li>
+                  Optimized state management with React Context and refactored GraphQL queries using Apollo caching/selective fetching, cutting page load time by 40% and data over-fetching by 60%.                </li>
               </ul>
 
             </li>
@@ -670,9 +665,14 @@
 
               <span>June 2023 - Aug 2023</span>
               <ul class="bulleted-list">
-                <li class="timeline-text">
-                  Optimized Oracle DB queries by 70% via AWR-driven indexing, join restructuring, 
-                  and materialized views, slashing critical query latency from 3.2s to 1.1s.
+                <li>
+                  Optimized Oracle DB queries by 70% using AWR-driven indexing, join restructuring, and materialized views, slashing critical query execution time from 3.2s to 1.1s.
+                </li>
+                <li>
+                  Eliminated dashboard timeout errors during peak load by decoupling heavy analytical read operations from the main transactional UI thread in the Django REST backend.
+                </li>
+                <li>
+                  Implemented an ETL pipeline to refresh Oracle materialized views during off-peak hours, ensuring high-volume daily reporting metrics were delivered with sub-second latency.
                 </li>
               </ul>
             </li>
